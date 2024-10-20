@@ -46,17 +46,21 @@ If you are found guilty of a violation, you will be notified in writing, with do
 
 ---
 
-### 3. Conditions for Permissible Use Beyond Paper Trading
+### 3. Conditions for Permissible Use
 
-You are permitted to use this code beyond **paper trading** (simulation) for profit-making activities ONLY under the following conditions:
-#### 1. ASK FOR FORGIVENESS
-In the spirit of good faith and entrepreneurship we assume positive intentions and reasonable compromises 
+You are permitted to use this code beyond for profit-making activities ONLY under the following conditions:
+
+#### 1. ASK FOR FORGIVENESS, NOT PERMISION
+In the spirit of good faith, entrepreneurship and to give back to all the amazing makers, and hackers out there, we assume positive intentions and reasonable compromises through mediation and heathy communication.
+So seriously though, don't be jerk, or fuck you, pay ME/US. 
+If you were provided benefit, them share that when you can and document it.
+We agree to be chill but we'll make time for unreasonable, toxic jerks.
 
 #### 2. Community Contribution
 You or your organization must make a meaningful contribution to the broader community each year. This includes:
-- Providing **free tutorials** or **mentoring** on the code’s uses.
+- Providing **free tutorials** or **mentoring** on any uses.
 - Resolving issues on GitHub or other platforms.
-- Sharing knowledge through forums, blog posts, or open-source contributions.
+- Sharing knowledge through forums, or free blog posts, or open-source contributions.
 - Community of this license may be asked to vote for approval of exceptions or enforce violations.
 
 #### 3. Charitable Donation
@@ -78,13 +82,13 @@ Failure to meet these requirements will result in additional **penalties** or le
 
 ### 4. Limitation of Liability
 
-This code is provided "as-is" without any express or implied warranties. In no event will the author be liable for any damages arising from the use of this software. But seriously, if you screw this up, that’s on you.
+This code is provided "as-is" without any express or implied warranties. In no event will the author be liable for any damages arising from the use of this software. But seriously, if you screw this up, that’s on you. We did this in good faith, did you?
 
 ---
 
 ### 5. Process for Fines and Violations
 
-1. **Notification**: You will receive a formal written notice of violation via email or legal representative.
+1. **Notification**: You will receive a formal written notice of violation via email or legal representative or through a community using this license.
 2. **Proof Submission**: Evidence of the violation (screenshots, logs, or relevant records) will be included with the notice.
 3. **Dispute Period**: You will have **30 days** to dispute the violation or provide evidence of compliance.
 4. **Payment**: If no dispute is filed, payment of fines is expected within **60 days**. Non-payment will result in additional legal actions.
