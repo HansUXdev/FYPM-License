@@ -59,5 +59,3 @@ Violation of any terms of this license results in immediate termination of your 
 By continuing to use this code, you agree to the above terms. If you do not comply, expect a strongly worded message... and the fine.
 
 ---
-
-Does this draft capture the tone and rules you're aiming for?
